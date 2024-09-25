@@ -1,0 +1,31 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 13 - agosto - 2024
+Weather: 19°C		Place: Lindavista, Mexico City.		Hour: 10:05
+Initial observations: Sin observaciones iniciales.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+
+10:20AM Medición Linea Base 1 Pre-experimental: (001mednegra.txt)⚫:		10:20:07.335 - 10:25:08.474
+10:40AM Medición Linea Base 2 Pre-experimental: (002mednegra.txt)⚫:		10:40:00.326 - 10:45:01.478
+ 
+11:00AM Medición Linea Base 1: (01mednegra.txt) ⚫: 				11:00:00.391 - 11:05:01.519
+11:20AM Medición Experimental Intervención 1 - Roja:	(01medroja.txt):	11:20:00.646 - 11:25:01.688
+11:40AM Medición Linea Base 2: (02mednegra.txt) ⚫: 				11:40:02.710 - 11:45:03.863
+12:00PM Medición Experimental Intervención 2 - Roja:	(02medroja.txt):	12:00:00.749 - 12:05:01.877
+12:20PM Medición Linea Base 3: (03mednegra.txt) ⚫: 				12:19:59.682 - 12:25:00.673
+12:40PM Medición Experimental Intervención 3 - Roja:	(03medroja.txt): 	12:40:00.450 - 12:45:01.615
+01:00PM Medición Linea Base 4: (04mednegra.txt) ⚫:				12:59:59.701 - 13:05:00.756
+
+01:20PM Medición Linea Base 3 Post-experimental: (003mednegra.txt)⚫:		13:19:59.953 - 13:25:01.108
+01:40PM Medición Linea Base 4 Post-experimental: (004mednegra.txt)⚫:		13:40:00.391 - 13:45:01.418
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+02REV  - 11:03 PM :
+i) LDR Derecho.
+- Durante las líneas bases se observa que el LDR Derecho se descalibra y durante las mediciones baja su intencidad
+debido a eso. Se buscará cómo mejorar la calibraciónpara evitar que siga sucediendo en mediciones posteriores.
+
+By: Fernando Diaz-R, Omar Guzman-G.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->

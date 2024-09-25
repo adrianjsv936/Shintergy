@@ -1,0 +1,40 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 13-08-24 :)
+Weather:17°    Place: Mexico,CDMX    Hour: 10:10AM
+Initial observations: Antes de iniciar mediciones se observo que durante la calibración el programa Arduino se apagaba sin intervención, lo mismo ocurrió en la primera medición 001pre-base. 
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+10:20AM Medición Pre - Base 001 :(001mednegra.txt)⚫: 				10:20:01:298 - 10:24:57:753
+10:40AM Medición Pre - Base 002 :(002mednegra.txt)⚫: 				10:40:01:713 - 10:45:03.557
+
+11:00AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				11:00:00:948 - 11:05:01.479
+11:20AM Medición Experimental Intervención 1 - Roja:🔴	(01medRoja.txt):	    11:20:01:880 - 11:25:02.926
+11:40AM Medición Linea Base 2 :(02mednegra.txt)⚫: 				11:40:01:337 - 11:45:02.196
+11:59AM Medición Experimental Intervención 2 - Roja:🔴 (02medRoja.txt): 	    11:59:56:746 - 12:04:57.588
+12:19PM Medición Linea Base 3 :(03mednegra.txt)⚫: 				12:19:58.819 - 12:24:59.914
+12:39PM Medición Experimental Intervención 3 - Roja:🔴 (03medRoja.txt):	        12:39:59.124 - 12:45:00.281
+12:59PM Medición Linea Base 4 :(04mednegra.txt)⚫: 				12:59:59:756 - 01:05:00.240
+
+01:20PM Medición Post - Base 1: (003mednegra.txt)⚫:				01:20:03:817 - 01:25:04.763
+01:40PM Medición Post - Base 2: (004mednegra.txt)⚫:				01:40:01:006 - 01:45:01.583
+
+
+
+
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+
+
+- Se deben prender los láseres antes de la hora, para que estos alcancen su máxima intensidad, 2min aproximadamente antes de iniciar medición.
+- El laser tarsero sigue presentando variación de 1v menos que la fuente.
+- El laser frontal supera los 3.2v si el haz se luz incide en el centro de la fotocelda, por lo que se calibro con el haz de luz un poco afuera de la LDR.
+- El reloj del programa Arduino tuvo variaciones en su segundero a partir de la 02medroja y se ´´estabilizo'' en la post-base 003.
+
+
+
+
+By: Nancy Vélez-M. 
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
