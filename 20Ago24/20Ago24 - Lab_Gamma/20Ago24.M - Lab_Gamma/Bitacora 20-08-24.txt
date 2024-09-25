@@ -1,0 +1,39 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 20-08-24 
+Weather:18° Place: Mexico, CDMX Hour: 10:10AM
+Initial observations: De nuevo el laser trasero registra 1v menos que la fuente, aun con toda la intensidad de luz en el centro de la LDR.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+10:30AM Medición Pre - Base 001 :(001mednegra.txt)⚫: 				10:30:03:024 - 10:35:03.926
+10:50AM Medición Pre - Base 002 :(002mednegra.txt)⚫: 				10:50:04:014 - 10:55:04.873
+
+11:10AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				11:10:02:678 - 11:15:03.583
+11:30AM Medición Experimental Intervención 1 - Azul:🔵 (01medazul.txt):	        11:30:01:579 - 11:35:02.906
+11:50AM Medición Linea Base 2 :(02mednegra.txt)⚫: 				11:50:04:029 - 11:55:04.919
+12:10PM Medición Experimental Intervención 2 - Azul:🔵 (02medazul.txt):        12:10:02:185 - 12:15:03.045
+12:29PM Medición Linea Base 3 :(03mednegra.txt)⚫: 				12:29:50:808 - 12:34:51.666
+12:50PM Medición Experimental Intervención 3 - Azul:🔵 (03medazul.txt):	        12:50:02:796 - 12:55:03.702
+01:10PM Medición Linea Base 4 :(04mednegra.txt)⚫: 				01:10:10:655 - 01:15:11.545
+
+01:30PM Medición Post - Base 1: (003mednegra.txt)⚫:				
+01:50PM Medición Post - Base 2: (004mednegra.txt)⚫:				01:50:13:368 - 01:55:13.821
+
+
+
+
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+
+
+- Laser trasero registra 1v menos que la fuente de voltaje.
+- Hubo un cambio en el reloj del programa Arduino de 10s en la medición 03mednegra
+- Se detuvo programa Arduino en la med 003mednegra por lo que se tuvo que reiniciar equipo y se perdió dicha medición.
+
+
+
+
+By: Nancy Vélez-M. 
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
