@@ -1,0 +1,36 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 19-08-24 :)
+Weather:21° Place: Mexico, CDMX Hour: 11:10AM
+Initial observations: Se fijo el laser frontal, había un falso que provocaba fallas en el Arduino.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+11:50AM Medición Pre - Base 001 :(001mednegra.txt)⚫: 				11:50:32:788 - 11:55:33.647
+12:10PM Medición Pre - Base 002 :(002mednegra.txt)⚫: 				12:10:03:630 - 12:15:05.425
+
+12:30PM Medición Linea Base 1 :(01mednegra.txt)⚫: 				12:30:03:394 - 12:35:04.252
+12:50PM Medición Experimental Intervención 1 - Roja:🔴	(01medroja.txt):	    12:50:02:916 - 12:55:03.803
+01:10PM Medición Linea Base 2 :(02mednegra.txt)⚫: 				01:10:03:191 - 01:15:04.097
+01:30PM Medición Experimental Intervención 2 - Roja:🔴 (02medmroja.txt): 	    01:30:03:433 - 01:35:04.293
+01:50PM Medición Linea Base 3 :(03mednegra.txt)⚫: 				01:50:03:384 - 01:55:04.243
+02:10PM Medición Experimental Intervención 3 - Roja:🔴 (03medroja.txt):	        02:10:03:209 - 02:15:04.099
+02:30PM Medición Linea Base 4 :(04mednegra.txt)⚫: 				02:30:05:013 - 02:35:05.872 
+
+02:50PM Medición Post - Base 1: (003mednegra.txt)⚫:				02:50:02:391 - 02:55:03.252
+03:10PM Medición Post - Base 2: (004mednegra.txt)⚫:				03:10:04:167 - 03:15:05.027
+
+
+
+
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+
+- El laser derecho tarda aproximadamente 2min en irradiar toda su intensidad, mientras que el inferior a 2 con 30s
+- El laser tarsero se restauro ya no registra 1v menos, registra correctamente el voltaje de la fuente. 
+- El laser frontal y derecho ahora son los que NO registran 3.2v, se mantienen en 3.3v ya no es el superior. 
+
+
+By: Nancy Vélez-M. 
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
