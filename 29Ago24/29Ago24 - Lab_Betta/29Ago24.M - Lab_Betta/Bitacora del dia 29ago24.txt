@@ -1,0 +1,32 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 29 - agosto - 2024
+Weather: 17°C		Place: Lindavista, Mexico City.		Hour: 10:16
+Initial observations: La salida de voltaje de la fuente de alimentación con el que se trabajará a 3.19V para tener
+un mejor control de los valores registrados a la salida.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+
+10:45AM Medición Linea Base 1 Pre-experimental: (001mednegra.txt)⚫:		10:44:59:690 - 10:50:00:695
+11:05AM Medición Linea Base 2 Pre-experimental: (002mednegra.txt)⚫:		11:04:59:704 - 11:10:00:615
+ 
+11:25AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				11:24:59:336 - 11:30:00.:34
+11:45AM Medición Experimental Intervención 1 - Verde:	(01medverde.txt):	11:45:00:855 - 11:50:02:017
+12:05PM Medición Linea Base 2 :(02mednegra.txt)⚫: 				12:05:01:523 - 12:10:02:662
+12:25PM Medición Experimental Intervención 2 - verde:	(02medverde.txt):	12:25:02:202 - 12:30:03:348
+12:45PM Medición Linea Base 3 :(03mednegra.txt)⚫: 				12:45:00:413 - 12:50:01:520
+01:05PM Medición Experimental Intervención 3 - Verde:	(03medverde.txt): 	13:05:00:846 - 13:10:02:005
+01:25PM Medición Linea Base 4 :(04mednegra.txt)⚫:				13:25:00:143 - 13:30:01:070
+
+01:45PM Medición Linea Base 1 Post-experimental: (003mednegra.txt)⚫:		13:44:53:741 - 13:49:54:899
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+02REV  - 00:XX PM :
+i) LDR Derecha.
+- La fotocelda derecha se descaibró durante la primer línea base pre-experimental, por lo cual se hará esa consideración.
+ii) Mediciones simultaneas.
+- Debido a un problema en el Lab Gamma, la primer medición Verde (11:45AM) no se tomará como simultanea.
+
+By: Fernando Diaz-R.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
