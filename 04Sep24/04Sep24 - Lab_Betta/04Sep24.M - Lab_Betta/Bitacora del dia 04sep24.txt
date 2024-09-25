@@ -1,0 +1,31 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 04 - septiembre- 2024
+Weather: 18°C		Place: Lindavista, Mexico City		Hour: 09:11
+Initial observations: Sin observaciones preliminares.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+09:30AM Medición Linea Base1 Pre-experimental: (001mednegra.txt)⚫:		09:30:01:126 - 09:35:02:256
+09:50AM Medición Linea Base2 Pre-experimental: (002mednegra.txt)⚫:		09:50:01:463 - 09:55:02:624
+
+10:10AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				10:10:00:459 - 10:15:01:604
+10:30AM Medición Experimental Intervención 1 - Roja: 	(01medroja.txt):	10:29:59:171 - 10:35:00:303
+10:50AM Medición Linea Base 2 :(02mednegra.txt)⚫: 				10:50:01:706 - 10:55:02:851
+11:10AM Medición Experimental Intervención 2 - Roja:	(02medroja.txt):	11:10:02:089 - 11:15:03:201
+11:30AM Medición Linea Base 3:(03mednegra.txt) ⚫: 				11:30:01:461 - 11:34:58:325
+11:50AM Medición Experimental Intervención 3 - Roja:	(03medroja.txt): 	11:50:01:035 - 11:55:02:199
+12:10PM Medición Linea Base 4:(04mednegra.txt) ⚫:				12:09:59:549 - 12:15:00:562
+12:30PM Medición Experimental Intervención 4 - Roja:	(04medroja.txt):	12:30:04:246 - 12:35:05:394
+
+10:50PM Medición Linea Base1 Post-experimental: (001mednegra.txt)⚫:		12:50:00:096 - 12:54:59:866
+01:10PM Medición Linea Base2 Post-experimental: (002mednegra.txt)⚫:		13:09:58:420 - 13:14:59:433
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+02REV  - 01:16 PM :
+El día de hoy se hicieron medciones con la báscula para observar si existen variaciones gravitacionales. No se observó
+ningun cambio en ninguna intervención ni en ninguna línea base.
+
+By: Fernando Diaz-R.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
