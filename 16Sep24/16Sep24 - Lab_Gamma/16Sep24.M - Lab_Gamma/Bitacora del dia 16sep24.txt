@@ -1,0 +1,29 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 16 - septiembre - 2024
+Weather: 18°C		Place: Azcapotzalco, Mexico City.		Hour: 09:14
+Initial observations: Se considera que, los pesajes a realizar con las básculas tienen un error de ±0.01g de precisión,
+al igual que el peso a usar (5.00g), que también cuenta con un error aproximado de 0.2g.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+10:00AM Medición Linea Base1 Pre-experimental: (001mednegra.txt)⚫:		10:00:04:546 - 10:05:05:780
+10:20AM Medición Linea Base2 Pre-experimental: (002mednegra.txt)⚫:		10:19:58:919 - 10:25:00:148
+
+10:40AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				10:39:59:065 - 10:45:00:265
+11:00AM Medición Experimental Intervención 1 - Roja: 	(01medroja.txt):	10:59:59:414 - 11:05:00:630
+11:20AM Medición Linea Base 2 :(02mednegra.txt)⚫: 				11:19:56:844 - 11:24:58:045
+11:40AM Medición Experimental Intervención 2 - Roja:	(02medroja.txt):	11:39:59:104 - 11:45:00:329
+12:00PM Medición Linea Base 3:(03mednegra.txt) ⚫: 				12:00:00:896 - 12:05:02:113
+12:20PM Medición Experimental Intervención 3 - Roja:	(03medroja.txt): 	12:19:59:778 - 12:25:01:023
+12:40PM Medición Linea Base 4:(04mednegra.txt) ⚫:				12:39:59:139 - 12:45:00:368
+01:00PM Medición Experimental Intervención 4 - Amarilla:(04medamarilla.txt):	13:00:01:295 - 13:05:02:531
+01:20PM Medición Linea Base 5:(05mednegra.txt) ⚫:				13:19:59:461 - 13:25:00:716
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+02REV  - 01:30PM :
+- Sin observaciones preliminares.
+
+By: Fernando Diaz-R.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->

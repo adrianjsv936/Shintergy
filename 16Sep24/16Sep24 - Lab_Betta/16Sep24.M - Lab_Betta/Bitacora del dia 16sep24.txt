@@ -1,0 +1,32 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 16 - septiembre - 2024
+Weather: 18°C		Place: Lindavista, Mexico City.		Hour: 08:48
+Initial observations: Sin observaciones iniciales.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+
+10:00AM Medición Linea Base 1 Pre-experimental: (001mednegra.txt)⚫:		10:00:02.405 - 10:05:03.517
+10:20AM Medición Linea Base 2 Pre-experimental: (002mednegra.txt)⚫:		10:20:03.486 - 10:25:04.516
+ 
+10:40AM Medición Linea Base 1: (01mednegra.txt) ⚫: 				10:40:02.484 - 10:45:03.647
+11:00AM Medición Experimental Intervención 1 -Amarilla:	(01medamarilla.txt):	11:00:14.693 - 11:05:15.790 
+11:20AM Medición Linea Base 2: (02mednegra.txt) ⚫: 				11:20:01.346 - 11:25:02.474
+11:40PM Medición Experimental Intervención 2 -Amarilla:	(02medamarilla.txt):	13:40:00.055 - 11:45:04.327
+12:00PM Medición Linea Base 3: (03mednegra.txt) ⚫: 				12:00:01.806 - 12:05:00.675
+12:20PM Medición Experimental Intervención 3 - Roja:	(03medroja.txt): 	12:20:01.971 - 12:25:03.086
+12:40PM Medición Linea Base 4: (04mednegra.txt) ⚫:				12:40:00.445 - 12:45:00.798 
+01:00PM Medición Experimental Intervención 4 - Roja:	(04medroja.txt): 	13:00:03.985 - 13:05:05.082
+01:20PM Medición Linea Base 5: (05mednegra.txt) ⚫:				13:20:05.955 - 13:25:07.048
+
+
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+Sin observaciones preeliminares.
+se ocupara en la bascula un peso de 5g
+i)la computadora presento algunos fallos y por un momento se trabo cuando volvio a responder la computadora me percate que unos archivos se habian borrado los archivos que se borraron fueron la primera medicion amarilla y las 2 ultimas pruebas 
+
+
+By:Omar Guzman-G.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
