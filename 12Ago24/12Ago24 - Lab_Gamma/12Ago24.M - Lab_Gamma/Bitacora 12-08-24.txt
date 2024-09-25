@@ -1,0 +1,40 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 12-08-24 :)
+Weather:24° Place: Mexico, CDMX Hour: 11:10AM
+Initial observations: No fue posible establecer el laser trasero a 3.3v puede haber un falso ya que la fotocelda es nueva, el problema puede estar en los cables.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+11:30AM Medición Pre - Base 001 :(001mednegra.txt)⚫: 				11:30:02:675 - 11:35:03:396
+11:50AM Medición Pre - Base 002 :(002mednegra.txt)⚫: 				11:50:07:700 - 11:55::08:277
+
+12:10PM Medición Linea Base 1 :(01mednegra.txt)⚫: 				12:10:02:620 - 12:15:03:103
+12:30PM Medición Experimental Intervención 1 - Roja:🔴	(01medroja.txt):	    12:30:02:056 - 12:35:02:774
+12:50PM Medición Linea Base 2 :(02mednegra.txt)⚫: 				12:50:03:211 - 12:55:03:930
+01:10PM Medición Experimental Intervención 2 - Roja:🔴 (02medmroja.txt): 	    01:10:02:089 - 01:15:02:651
+01:30PM Medición Linea Base 3 :(03mednegra.txt)⚫: 				01:30:02:322 - 01:35:03:088
+01:50PM Medición Experimental Intervención 3 - Roja:🔴 (03medroja.txt):	        01:50:01:236 - 01:55:02.328
+02:10PM Medición Linea Base 4 :(04mednegra.txt)⚫: 				02:10:02:828 - 02:15:03.420
+
+02:30PM Medición Post - Base 1: (003mednegra.txt)⚫:				02:30:03:678 - 02:35:04:493
+02:50PM Medición Post - Base 2: (004mednegra.txt)⚫:				02:50:01:868 - 02:55:02.433
+
+
+
+
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+
+
+- De nuevo el laser superior presento variedad de voltaje entre 3.2v y 3.4v 
+- No fue posible calibrar a 3.3v el laser trasero mantuvo un voltaje de 3.2 a 3.1v, se observo que se pierde un 1v ya que al no incidir nada de luz a la fotocelda el programa de arduino registra 1v.
+ En anteriores mediciones el laser trasero presentaba problema al registrar 1v de mas, es decir 3.4v.
+- El laser frontal presento variaciones de 3.3v a 3.4v al minuto 2 aprox se regularizaba a 3.3v.
+
+
+
+
+By: Nancy Vélez-M. 
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->

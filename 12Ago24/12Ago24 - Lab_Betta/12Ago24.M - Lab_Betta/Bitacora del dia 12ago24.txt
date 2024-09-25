@@ -1,0 +1,31 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 12 - agosto - 2024
+Weather: 20°C		Place: Lindavista, Mexico City.		Hour: 08:30
+Initial observations: Sin observaciones preliminares.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+
+11:30AM Medición Linea Base1 Pre-experimental: (001mednegra.txt)⚫:		11:30:00.797 - 11:35:01.924
+11:50AM Medición Linea Base2 Pre-experimental: (002mednegra.txt)⚫:		00:00:00:000 - 00:00:00:000
+
+12:10AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				12:10:03.236 - 12:15:03.516
+12:30AM Medición Experimental Intervención 1 - Roja:	(01medroja.txt):	12:30:01.269 - 12:35:01.783
+12:50AM Medición Linea Base 2 :(02mednegra.txt)⚫: 				12:50:01.131 - 12:55:01.731
+01:10PM Medición Experimental Intervención 2 - Roja:	(02medroja.txt):	13:10:00.926 - 13:15:01.454
+01:30PM Medición Linea Base 3:(03mednegra.txt) ⚫: 				13:30:00.195 - 13:35:01.327
+01:50PM Medición Experimental Intervención 3 - Roja:	(03medroja.txt): 	13:50:00.597 - 13:55:01.753
+02:10PM Medición Linea Base 4:(04mednegra.txt) ⚫:				14:10:00.303 - 14:15:01.436
+
+02:30PM Medición Linea Base3 Post-experimental: (003mednegra.txt)⚫:		14:29:59.404 - 14:35:00.563
+02:50PM Medición Linea Base4 Post-experimental: (004mednegra.txt)⚫:		14:49:59.712 - 15:55:00.858 
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+02REV  - 00:XX PM :
+i) (Numeración)
+- Observacion 1:por accidente se cerro la pestaña de arduino y no se guardaron los datos de la segunda pre base 
+
+By: Fernando Diaz-R, Omar Guzman-G.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
