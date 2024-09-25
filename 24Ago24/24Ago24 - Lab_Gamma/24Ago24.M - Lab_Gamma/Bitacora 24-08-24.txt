@@ -1,0 +1,31 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 24-08-24 
+Weather:18° Place: Mexico, CDMX Hour: 9:45AM
+Initial observations: Hubo problema para calibrar el laser derecho e izquierdo.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+10:00AM Medición Pre - Base 001 :(001mednegra.txt)⚫: 				10:00:03:239 - 10:05:00.629
+10:50AM Medición Pre - Base 002 :(002mednegra.txt)⚫: 				
+
+10:40AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				10:40:01:460 - 10:45:02.358 
+11:00AM Medición Experimental Intervención 1 - Verde:🟢 (01medazul.txt):	    11:00:01:656 - 11:05:02.469
+
+
+
+
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+
+
+- En la medición 002mednegra no cargo el programa Arduino, por lo que se tuvo que reiniciar equipo y no se pudo registrar medición.
+- El laser derecho alcanza su intensidad lumínica total pasado los 2min con 30s después de haberse prendido.
+- Se cancelaron mediciones antes de la 02mednegra.
+
+
+
+
+By: Nancy Vélez-M. 
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->

@@ -1,0 +1,24 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 24 - AGOSTO - 2024
+Weather: 20°c		Place: Lindavista, Mexico City		Hour: 10:43
+Initial observations: El día de hoy en el laboratorio Betta, se usará la báscula para visualiar si existen
+variaciones gravitacionales y en qué momento suceden.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+10:00AM Medición Linea Base1 Pre-experimental: (001mednegra.txt)⚫:		10:00:02:906 - 10:05:04:056
+10:20AM Medición Linea Base2 Pre-experimental: (002mednegra.txt)⚫:		10:19:59:671 - 10:25:00:782
+
+10:40AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				10:40:01:138 - 10:45:02:285
+11:00AM Medición Experimental Intervención 1 - Verde: 	(01medverde.txt):	11:00:00:102 - 11:05:01:365
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+02REV  - 10:02AM :
+i) Láser Derecho.
+- Durante la primer línea base pre experimental el láser derecho no estuvo funcionando. Antes de la medición se calibró
+el equipo y prendieron todos los láseres sin ningun problema; se revisará el funcionamiento de los láseres. 
+
+By: Fernando Diaz-R.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
