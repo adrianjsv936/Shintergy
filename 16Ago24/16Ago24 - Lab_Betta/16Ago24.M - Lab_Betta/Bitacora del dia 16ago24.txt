@@ -1,0 +1,31 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 16 - agosto - 2024
+Weather: 19°C		Place: Lindavista, Mexico City.		Hour: 10:26
+Initial observations: Sin observaciones iniciales.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+11:00AM Medición Linea Base 1 Pre-experimental: (001mednegra.txt) ⚫:		11:00:00.288 - 11:05:01.447 
+11:20AM Medición Linea Base 2 Pre-experimental: (002mednegra.txt) ⚫:		11:20:02.097 - 11:25:02.618
+
+11:40AM Medición Linea Base 1 :(01mednegra.txt) ⚫: 				11:39:59.994 - 11:45:00.071
+12:00PM Medición Experimental Intervención 1 - verde:	(01meddverde.txt):	12:00:01.535 - 12:05:02.015
+12:20PM Medición Linea Base 2 :(02mednegra.txt) ⚫: 				12:20:03.087 - 12:25:03.591
+12:40PM Medición Experimental Intervención 2 - Amarilla:(02medamarilla.txt):	12:40:02.521 - 12:45:03.036
+01:00PM Medición Linea Base 3 :(03mednegra.txt) ⚫: 				13:00:03.304 - 13:05:09.238
+01:20PM Medición Experimental Intervención 3 - Amarillo:(03medamarillo.txt): 	13:20:01.538 - 13:25:02.127 
+01:40PM Medición Linea Base 4 :(04mednegra.txt) ⚫:				13:40:01.396 - 13:45:02.564
+
+02:00PM Medición Linea Base 3 Post-experimental: (003mednegra.txt) ⚫:		13:59:59.578 - 14:05:00.714
+02:20PM Medición Linea Base 4 Post-experimental: (004mednegra.txt) ⚫:		14:20:00.189 - 14:25:01.318
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+02REV  - 01:23 PM : 
+i) LDR Inferior.
+-por primera ves en estas 2 semanas haciendo experimewntos la fotoselda inferior reporto una señal de 2.1V
+como mínimo.
+
+By: Fernando Diaz-R, Omar Guzman-G.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->

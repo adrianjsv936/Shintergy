@@ -1,0 +1,39 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 14-08-24 
+Weather:24° Place: Mexico, CDMX Hour: 10:40AM
+Initial observations: Hubo fallas con el internet, tiende a conectarse y desconectarse.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+11:00AM Medición Pre - Base 001 :(001mednegra.txt)⚫: 				11:00:01:567 - 11:05:02.347
+11:20AM Medición Pre - Base 002 :(002mednegra.txt)⚫: 				11:20:01:934 - 11:25:02.653
+
+11:39AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				11:39:56:527 - 11:44:57.245 
+12:00PM Medición Experimental Intervención 1 - Verde:🟢	(01medVerde.txt):	    12:00:00:062 - 12:05:00:875
+12:20PM Medición Linea Base 2 :(02mednegra.txt)⚫: 				12:20:01:891 - 12:24:37.721
+12:40PM Medición Experimental Intervención 2 - Roja:🔴 (02medmRoja.txt):   	    12:40:03:886 - 12:45:04.592
+01:00PM Medición Linea Base 3 :(03mednegra.txt)⚫: 				01:00:04:365 - 01:05:05.270
+01:20PM Medición Experimental Intervención 3 - Roja:🔴 (03medRoja.txt):	        01:20:01:314 - 01:25:02.257
+01:40PM Medición Linea Base 4 :(04mednegra.txt)⚫: 				01:40:02:016 - 01:45:02.969
+
+02:00PM Medición Post - Base 003: (003mednegra.txt)⚫:				02:00:17:007 - 02:05:17.491
+02:20PM Medición Post - Base 004: (004mednegra.txt)⚫:				02:20:02:266 - 02:25:03.155
+
+
+
+
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+
+- No se pudo registrar correctamente LB02 ya que el programa Arduino se detuvo sin intervención, esto debido fallas de internet.
+- El laser frontal registro 1v de mas que la fuente, el laser trasero registro  de 3.0v a 3.1v, laser superior tuvo variación de 3.2v a 3.3v
+
+
+
+
+
+
+By: Nancy Vélez-M. 
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
