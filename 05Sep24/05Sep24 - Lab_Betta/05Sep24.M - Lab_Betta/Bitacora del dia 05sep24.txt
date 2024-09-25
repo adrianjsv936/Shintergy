@@ -1,0 +1,32 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 05 - septiembre- 2024
+Weather: 18°C		Place: Lindavista, Mexico City		Hour: 09:30
+Initial observations: El día de hoy se harán mediciones utilizando la báscula para ver si existen variaciones
+gravitacionales.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+10:00AM Medición Linea Base1 Pre-experimental: (001mednegra.txt)⚫:		09:59:58:324 - 10:04:59:496
+10:20AM Medición Linea Base2 Pre-experimental: (002mednegra.txt)⚫:		10:19:58:318 - 10:24:59:468
+
+10:40AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				10:39:59:366 - 10:45:00:497
+11:00AM Medición Experimental Intervención 1 - Roja: 	(01medroja.txt):	10:59:58:898 - 11:04:59:927
+11:20AM Medición Linea Base 2 :(02mednegra.txt)⚫: 				11:19:58:447 - 11:24:59:559
+11:40AM Medición Experimental Intervención 2 - Roja:	(02medroja.txt):	11:39:58:375 - 11:44:59:490
+12:00PM Medición Linea Base 3:(03mednegra.txt) ⚫: 				11:59:59:089 - 12:04:59:892
+12:20PM Medición Experimental Intervención 3 - Roja:	(03medroja.txt): 	12:20:00:575 - 12:25:01:737
+12:40PM Medición Linea Base 4:(04mednegra.txt) ⚫:				12:40:00:740 - 12:45:01:895
+01:00PM Medición Experimental Intervención 4 - Roja:	(04medroja.txt):	13:00:02:033 - 13:05:03:156
+
+01:20PM Medición Linea Base1 Post-experimental: (001mednegra.txt)⚫:		13:19:58:455 - 13:24:59:608
+01:40PM Medición Linea Base2 Post-experimental: (002mednegra.txt)⚫:		13:44:57:723 - 13:49:58:568
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+02REV  - 01:52 PM :
+El día de hoy se hicieron medciones con la báscula para observar si existen variaciones gravitacionales. No se observó
+ningun cambio en ninguna intervención ni en ninguna línea base.
+
+By: Fernando Diaz-R.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
