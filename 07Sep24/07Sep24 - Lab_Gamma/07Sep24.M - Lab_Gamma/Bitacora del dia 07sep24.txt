@@ -1,0 +1,35 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 07 - septiembre - 2024
+Weather: 16°C		Place: Azcapotzalco, Mexico City.		Hour: 08:52
+Initial observations: El día de hoy se probarán la báscula para verificar si existen variaciones gravitacionales.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+09:10AM Medición Linea Base1 Pre-experimental: (001mednegra.txt)⚫:		09:10:01:208 - 09:15:02:300
+09:30AM Medición Linea Base2 Pre-experimental: (002mednegra.txt)⚫:		09:29:59:145 - 09:35:00:341
+
+09:50AM Medición Linea Base 1 :(01mednegra.txt) ⚫: 				09:50:01:128 - 09:55:02:383
+10:10AM Medición Experimental Intervención 1 - Roja 🔴:		(01medroja.txt):	10:09:59:816 - 10:15:00:882
+10:30AM Medición Linea Base 2 :(02mednegra.txt) ⚫: 				10:30:00:015 - 10:35:00:939
+10:50AM Medición Experimental Intervención 2 - Roja 🔴:		(02medroja.txt):	10:50:43:264 - 10:55:44:466
+11:10AM Medición Linea Base 3 :(03mednegra.txt) ⚫: 				11:09:59:413 - 11:15:00:599
+11:30AM Medición Experimental Intervención 3 - Roja 🔴:		(03medroja.txt): 	11:30:04:227 - 11:35:05:474
+11:50AM Medición Linea Base 4 :(04mednegra.txt) ⚫:				11:49:58:873 - 11:55:00:060
+12:10PM Medición Experimental Intervención 4 - Roja 🔴:		(04medroja.txt):	12:09:59:544 - 12:15:00:480
+
+12:30PM Medición Linea Base1 Post-experimental: (003mednegra.txt)⚫:		12:30:00:470 - 12:35:01:690
+10:50PM Medición Linea Base2 Post-experimental: (004mednegra.txt)⚫:		00:00:00:000 - 00:00:00:000
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+02REV  - 10:15 AM : 
+i) Báscula.
+- La báscula se descargó antes de iniciar la primer intervención ROJA, se cargará durante una hora y después se
+trabajará de forma normal con la báscula.
+ii) Adaptador USB.
+- El adaptador con el cuál de conecta el Arduino a la computadora falla, ya que dejó de detectarlo. Se recomienda
+cambiarlo cuanto antes para seguir trabajando de forma normal.
+
+By: Fernando Diaz-R, Berenice Ávila-S.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->

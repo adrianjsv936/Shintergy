@@ -1,0 +1,28 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 07 - septiembre - 2024
+Weather: 15°C		Place: Lindavista, Mexico City.		Hour: 8:50
+Initial observations: el laboratorio no presenyaninguna falla todo esta con normaliudad 
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+
+09:10AM Medición Linea Base 1 Pre-experimental: (001mednegra.txt)⚫:		09:10:01.857 - 09:15:03.937
+09:30AM Medición Linea Base 2 Pre-experimental: (002mednegra.txt)⚫:		09:30:05.226 - 09:35:01.673
+ 
+09:50AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				09:50:16.599 - 09:55:17.009
+10:10AM Medición Experimental Intervención 1 - Verde:	(01medroja.txt):	10:10:15.168 - 10:15:13.125
+10:30AM Medición Linea Base 2 :(02mednegra.txt)⚫: 				10:30:01.705 - 10:35:02.855
+10:50AM Medición Experimental Intervención 2 - verde:	(02medroja.txt):	10:50:00.422 - 10:55:01.369
+11:10AM Medición Linea Base 3 :(03mednegra.txt)⚫: 				11:10:01.774 - 11:15:02.162
+11:30AM Medición Experimental Intervención 3 - Verde:	(03medroja.txt): 	11:30:11.382 - 11:35:12.502
+11:50AM Medición Linea Base 4 :(04mednegra.txt)⚫:				11:50:00.257 - 11:55:01.419 
+12:10AM Medición Experimental Intervención 4 - Verde:	(04medroja.txt): 	12:10:00.279 - 12:14:52.832
+12:30AM Medición Linea Base 1 Post-experimental: (003mednegra.txt)⚫:		12:30:02.249 - 12:35:00.134
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+02REV  - 00:XX PM :
+i) bascula
+hubo un problema con el sofware de la bascula y no se pudo tomar mediciones del peso
+By: Fernando Diaz-R.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
