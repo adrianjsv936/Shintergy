@@ -1,0 +1,28 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 14 - agosto - 2024
+Weather: 19°C		Place: Lindavista, Mexico City.		Hour: 10:05
+Initial observations: Sin observaciones iniciales.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+
+11:30AM Medición Linea Base 1 Pre-experimental: (001mednegra.txt)⚫:		11:30:01.919 - 11:35:02.412
+11:50AM Medición Linea Base 2 Pre-experimental: (002mednegra.txt)⚫:		11:50:02.332  - 11:55:01.121
+ 
+12:10AM Medición Linea Base 1: (01mednegra.txt) ⚫: 				12:10:01.089 - 12:15:02.071
+12:30AM Medición Experimental Intervención 1 - Verde:	(01medverde.txt):	12:30:00.014 - 12:35:00.473
+12:50AM Medición Linea Base 2: (02mednegra.txt) ⚫: 				12:50:01.058 - 12:55:02.195
+01:10PM Medición Experimental Intervención 2 - Verde:	(02medverde.txt):	13:10:06.455 - 13:15:06.973
+01:30PM Medición Linea Base 3: (03mednegra.txt) ⚫: 				13:30:00.314 - 13:35:00.755
+01:50PM Medición Experimental Intervención 3 - Verde:	(03medvetde.txt): 	13:50:00.130 - 13:55:00.518
+02:10PM Medición Linea Base 4: (04mednegra.txt) ⚫:				14:10:00.228 - 14:15:00.614
+
+02:30PM Medición Linea Base 3 Post-experimental: (003mednegra.txt)⚫:		14:30:30.364 - 14:35:30.894 
+02:50PM Medición Linea Base 4 Post-experimental: (004mednegra.txt)⚫:		14:49:59.750 - 14:55:00.888
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+Sin observaciones preeliminares.
+
+By: Fernando Diaz-R, Omar Guzman-G.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->

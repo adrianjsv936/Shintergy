@@ -1,0 +1,39 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 14-08-24 
+Weather:19° Place: Mexico, CDMX Hour: 11:20AM
+Initial observations: El laser frontal presento variaciones de 3.2v a 3.3v, y el laser trasero con 1volt menos.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+11:30AM Medición Pre - Base 001 :(001mednegra.txt)⚫: 				11:30:03:031 - 11:35:00.713
+11:50AM Medición Pre - Base 002 :(002mednegra.txt)⚫: 				
+
+12:10PM Medición Linea Base 1 :(01mednegra.txt)⚫: 				12:10:01:507 - 12:15:02.460
+12:30PM Medición Experimental Intervención 1 - Verde:🟢	(01medVerde.txt):	    12:30:01:890 - 12:35:00.608
+12:50PM Medición Linea Base 2 :(02mednegra.txt)⚫: 				12:50:01:566 - 12:55:00.616
+01:10PM Medición Experimental Intervención 2 - Verde:🟢 (02medmVerde.txt): 	    01:10:01:299 - 01:15:00.555
+01:30PM Medición Linea Base 3 :(03mednegra.txt)⚫: 				
+01:50PM Medición Experimental Intervención 3 - Verde:🟢 (03medVerde.txt):	    01:50:01:840 - 01:55:00.830
+02:10PM Medición Linea Base 4 :(04mednegra.txt)⚫: 				02:10:01:403 - 02:15:00.637
+
+02:30PM Medición Post - Base 003: (003mednegra.txt)⚫:				02:30:08:077 - 02:35:00.834
+02:50PM Medición Post - Base 004: (004mednegra.txt)⚫:				02:50:02:436 - 02:55:00.736
+
+
+
+
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+
+- No se registro medición en la post-base 002 y en LB02 ya que el Arduino se detuvo sin intervención alguna, al parecer fue un problema de wifi.
+- Se obtuvo estabilidad con la LDR del laser superior de 3.2v que es donde se tenia problema con 1v de mas, por lo que las demás fotoceldas se calibraron para que no registraran 3.3v.
+- El laser trasero tuvo una variación de 3.2v a 3.1v.
+
+
+
+
+
+By: Nancy Vélez-M. 
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
