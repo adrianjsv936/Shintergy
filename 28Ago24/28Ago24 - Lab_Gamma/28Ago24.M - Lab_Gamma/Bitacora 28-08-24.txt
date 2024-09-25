@@ -1,0 +1,39 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 28-08-24 
+Weather:22° Place: Mexico, CDMX Hour: 10:10AM
+Initial observations: Laser derecho tarda 2min aprox para llegar a su intensidad de luminosidad máxima.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+10:30AM Medición Pre - Base 001 :(001mednegra.txt)⚫: 				10:30:33:206 - 10:35:34.018
+10:50AM Medición Pre - Base 002 :(002mednegra.txt)⚫: 				10:50:10:717 - 10:55:11.171 
+
+11:10AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				11:10:02:146 - 11:15:02.826 
+11:30AM Medición Experimental Intervención 1 - Morada:🟣 (01medazul.txt):	    11:30:02:552 - 11:35:02.915
+11:50AM Medición Linea Base 2 :(02mednegra.txt)⚫: 				11:50:03:920 - 11:55:04.406
+12:10PM Medición Experimental Intervención 2 - Morada:🟣 (02medazul.txt):      12:10:01:566 - 12:15:02.057 
+12:29PM Medición Linea Base 3 :(03mednegra.txt)⚫: 				12:30:01:058 - 12:35:02.682
+12:50PM Medición Experimental Intervención 3 - Morada:🟣 (03medazul.txt):	    12:50:01:269 - 12:55:01.894
+01:10PM Medición Linea Base 4 :(04mednegra.txt)⚫: 				01:10:02:046 - 01:15:02.516
+
+01:30PM Medición Post - Base 1: (003mednegra.txt)⚫:				01:30:01:988 - 01:35:02.660
+01:50PM Medición Post - Base 2: (004mednegra.txt)⚫:				01:50:01:481 - 01:55:02.137
+
+
+
+
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+
+
+- El laser inferior en las primeras 4 mediciones tardo aproximadamente 4min en llegar al voltaje de la fuente, en un inicio registraba 3.1v y pasado los 4min registraba los 3.2v de la fuente.
+- Laser trasero sigue registrando menos voltaje que el de la fuente.
+
+
+
+
+
+By: Nancy Vélez-M. 
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->

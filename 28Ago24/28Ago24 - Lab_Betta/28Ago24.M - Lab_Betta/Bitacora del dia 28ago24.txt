@@ -1,0 +1,33 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 28 - agosto - 2024
+Weather: 18°C		Place: Lindavista, Mexico City.		Hour: 10:20
+Initial observations: Sin observaciones iniciales.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+10:30AM Medición Linea Base1 Pre-experimental: (001mednegra.txt)⚫:		10:31:17:292 - 10:36:12:483
+10:50AM Medición Linea Base2 Pre-experimental: (002mednegra.txt)⚫:		10:50:02:667 - 10:55:02:029
+
+11:10AM Medición Linea Base 1 :(01mednegra.txt)⚫: 				11:10:08:957 - 11:15:10:102
+11:30AM Medición Experimental Intervención 1 - Morada: 	(01medmorda.txt):	11:30:04:502 - 11:35:05:629
+11:50AM Medición Linea Base 2 :(02mednegra.txt)⚫: 				11:50:05:189 - 11:55:06:335
+12:10PM Medición Experimental Intervención 2 - Morada:	(02medmorada.txt):	12:10:20:062 - 12:15:20:880
+12:30PM Medición Linea Base 3 :(03mednegra.txt)⚫: 				12:30:02:288 - 12:34:01:958
+12:50PM Medición Experimental Intervención 3 - Morada:	(03medmorada.txt): 	12:50:04:623 - 12:55:05:736
+01:10PM Medición Linea Base 4 :(04mednegra.txt)⚫:				13:10:07:142 - 13:15:08:288
+
+01:30PM Medición Linea Base1 Post-experimental: (003mednegra.txt)⚫:		13:29:58:831 - 13:34:59:936
+01:50PM Medición Linea Base2 Post-experimental: (004mednegra.txt)⚫:		13:50:04:357 - 13:55:04:401
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+02REV  - 00:XX PM : (es el código y hora de revision, junto con observaciones técnicas que deben anotarse)
+i) Calibración.
+- Durante la primer línea base pre experimental se calibraron los láseres debido a que las LDR Trasera y Derecha ya que
+estaban descalibradas.
+ii) Programa de Arduino IDE.
+- Durante la tercer línea base el programa de arduino se detuvo en el minuto 03:59:763 sin intervención de los operadores. 
+
+By: Fernando Diaz-R, Omar Guzman-G. 
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
