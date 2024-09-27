@@ -1,0 +1,30 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 13 - septiembre - 2024
+Weather: 18°C		Place: Lindavista, Mexico City		Hour: 09:05
+Initial observations:
+- Se considera para los pesajes que realiza la báscula un error de presición de ±0.01g, al igual que el peso
+  utilizado; siendo en esta ocacion de 5.00g.
+- Debido a un priblema con el programa de Arduino, no se realizó la primer Linea Base Pre Experimental.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+09:50AM Medición Linea Base2 Pre-experimental: (002mednegra.txt)⚫:		09:49:59:762 - 09:55:00:913
+10:10AM Medición Linea Base3 Pre-experimental: (003mednegra.txt)⚫:		10:10:00:049 - 10:15:00:994
+
+10:30AM Medición Linea Base 1 :(01mednegra.txt) ⚫: 				10:30:00:049 - 10:35:00:959
+10:50AM Medición Experimental Intervención 1 - Rojo:	(01medrojo.txt):	10:50:13:991 - 10:55:14:926
+11:10AM Medición Linea Base 2 :(02mednegra.txt) ⚫: 				11:10:00:680 - 11:15:01:714
+11:30AM Medición Experimental Intervención 2 - Rojo:	(02medrojo.txt):	11:30:00:532 - 11:35:01:477
+11:50AM Medición Linea Base 3 :(03mednegra.txt) ⚫: 				11:50:43:092 - 11:55:31:867
+12:10PM Medición Experimental Intervención 3 - Rojo:	(03medrojo.txt): 	12:10:00:109 - 12:15:01:154
+12:30PM Medición Linea Base 4 :(04mednegra.txt) ⚫:				12:29:59:846 - 12:35:00:926
+12:50PM Medición Experimental Intervención 4 - Rojo:	(04medrojo.txt):	12:50:02:014 - 12:55:02:992
+01:10PM Medición Linea Base 5 :(05mednegra.txt) ⚫:				13:10:01:679 - 13:15:02:658
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+Sin observaciones preeliminares.
+
+By: Fernando Diaz-R, Omar Guzman-G.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->

@@ -1,0 +1,31 @@
+<-------------------------------------HYPATIA RESEARCH INSTITUTE MEXICO------------------------------------------->
+<---------------------------------------------Experiment Report--------------------------------------------------->
+
+Date: 13 septiembre 2024
+Weather: 19°C              Place: Mexico City.		Hour: 09:10am
+Initial observations: Sin observaciones iniciales.
+
+<----------------------------------------------MEASUREMENTS-------------------------INICIO----------FIN-----------> 
+ 
+09:30AM Medición Linea Base1 Pre-experimental: (001mednegra.txt)⚫:		09:30:01:580 - 09:35:02.292
+09:50AM Medición Linea Base2 Pre-experimental: (002mednegra.txt)⚫:		09:50:00:837 - 09:55:01.525
+10:10AM Medición Linea Base2 Pre-experimental: (003mednegra.txt)⚫:		10:09:58:912 - 10:15:00.618
+       
+10:30AM Medición Linea Base 1 :(01mednegra.txt) ⚫: 				10:29:59:828 - 10:35:00.524
+10:50AM Medición Experimental Intervención 1 - Roja 🔴:		(01medroja.txt):	10:50:00:758 - 10:55:01.789
+11:10AM Medición Linea Base 2 :(02mednegra.txt) ⚫: 				11:10:00:981 - 11:15:01.685
+11:30AM Medición Experimental Intervención 2 - Roja 🔴:		(02medroja.txt):	11:30:01:054 - 11:35:01.761
+11:50AM Medición Linea Base 3 :(03mednegra.txt) ⚫: 				11:50:00:196 - 11:55:01.134
+12:10PM Medición Experimental Intervención 3 - Roja 🔴:		(03medroja.txt): 	12:10:00:293 - 12:15:00.777
+12:30PM Medición Linea Base 4 :(04mednegra.txt) ⚫:				12:30:00:588 - 12:35:01.309
+12:50PM Medición Experimental Intervención 4 - Roja 🔴:		(04medroja.txt):	12:50:00:489 - 12:55:00.774
+
+01:10PM Medición Linea Base1 Post-experimental: (004mednegra.txt)⚫:		01:10:07:620 - 01:15:08.440
+	
+<-----------------------------------------------OBSERVATIONS-------------------------------------------------------->
+
+- 
+
+- 
+By: Velez M.Nancy.
+<-----------------------------------------------FIN DE JORNADA------------------------------------------------------->
